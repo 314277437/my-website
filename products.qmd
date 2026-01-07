@@ -1,0 +1,16 @@
+
+---
+title: "Projects"
+---
+
+## Project 1: (name)
+
+**What it is:**  
+**Tools:** R, Quarto  
+**Link:** (optional)
+
+## Project 2: (name)
+
+**What it is:**  
+**Tools:**  
+**Link:** (optional)

@@ -1,11 +1,19 @@
 ---
-title: "my-website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome to Carolinas Mowing Equipment!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We commit to deliver high quality after-market mowing equipment parts to our partners with competitive price and excellent service. It's our great pleasure to work with you!
 
-```{r}
-1 + 1
-```
+
+## What you’ll find here
+
+- **Products**: a list of projects and deliverables
+- **About**: background and contact info
+
+## Quick links
+
+- 👉 [Products](products.qmd)
+- 👉 [About](about.qmd)
+
