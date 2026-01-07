@@ -16,9 +16,9 @@
   {
     "objectID": "products.html",
     "href": "products.html",
-    "title": "Projects",
+    "title": "Products",
     "section": "",
-    "text": "What it is:\nTools: R, Quarto\nLink: (optional)"
+    "text": "Type: reel 7588\nLink: (optional)"
   },
   {
     "objectID": "products.html#project-1-name",
@@ -47,5 +47,19 @@
     "title": "Home",
     "section": "",
     "text": "👉 Products\n👉 About"
+  },
+  {
+    "objectID": "products.html#product-1-new2026",
+    "href": "products.html#product-1-new2026",
+    "title": "Products",
+    "section": "",
+    "text": "Type: reel 7588\nLink: (optional)"
+  },
+  {
+    "objectID": "products.html#product-2-dang",
+    "href": "products.html#product-2-dang",
+    "title": "Products",
+    "section": "Product 2: (dang)",
+    "text": "Product 2: (dang)\nType: bite\nLink: (optional)"
   }
 ]
