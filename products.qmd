@@ -1,16 +1,14 @@
 
 ---
-title: "Projects"
+title: "Products"
 ---
 
-## Project 1: (name)
+## Product 1: (new2026)
 
-**What it is:**  
-**Tools:** R, Quarto  
+**Type:** reel 7588  
 **Link:** (optional)
 
-## Project 2: (name)
+## Product 2: (dang)
 
-**What it is:**  
-**Tools:**  
+**Type:** bite 
 **Link:** (optional)
