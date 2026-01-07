@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "We commit to deliver high quality after-market mowing equipment parts to our partners with competitive price and excellent service. It’s our great pleasure to work with you!\n\n\n\nProducts: a list of projects and deliverables\nAbout: background and contact info\n\n\n\n\n\n👉 Products\n👉 About"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Partnered with life-long GPA professional and quality control expert, combined with a group of dedicated staff, CEM committed to deliver products and service to meet and exceed customer expectation for long term business relationship.\nPlease do not hesitate to contact us 24/7:\nemail:\nmobile:"
-  },
-  {
     "objectID": "products.html",
     "href": "products.html",
     "title": "my-website",
     "section": "",
     "text": "Type: reel 7588\nSummary: durable for John Deere mower.\nHighlights: - 12x2x23 - 10 bls - steel\nLink: (optional)"
-  },
-  {
-    "objectID": "products.html#project-1-name",
-    "href": "products.html#project-1-name",
-    "title": "Projects",
-    "section": "",
-    "text": "What it is:\nTools: R, Quarto\nLink: (optional)"
-  },
-  {
-    "objectID": "products.html#project-2-name",
-    "href": "products.html#project-2-name",
-    "title": "Projects",
-    "section": "Project 2: (name)",
-    "text": "Project 2: (name)\nWhat it is:\nTools:\nLink: (optional)"
-  },
-  {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
-    "title": "Home",
-    "section": "",
-    "text": "Products: a list of projects and deliverables\nAbout: background and contact info"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Home",
-    "section": "",
-    "text": "👉 Products\n👉 About"
   },
   {
     "objectID": "products.html#product-1-new2026",
@@ -61,5 +19,33 @@
     "title": "my-website",
     "section": "Product 2: (dang)",
     "text": "Product 2: (dang)\n\nType: bite\nSummary: One sentence describing the product.\nHighlights: - Not a part but a pet - Pretty but not that smart\nLink: (optional)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Partnered with life-long GPA professional and quality control expert, combined with a group of dedicated staff, CEM committed to deliver products and service to meet and exceed customer expectation for long term business relationship.\nPlease do not hesitate to contact us 24/7:\nemail:\nmobile:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "We commit to deliver high quality after-market mowing equipment parts to our partners with competitive price and excellent service. It’s our great pleasure to work with you!\n\n\n\nProducts: a list of projects and deliverables\nAbout: background and contact info\n\n\n\n\n\n👉 Products\n👉 About"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Home",
+    "section": "",
+    "text": "Products: a list of projects and deliverables\nAbout: background and contact info"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Home",
+    "section": "",
+    "text": "👉 Products\n👉 About"
   }
 ]
