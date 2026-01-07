@@ -16,9 +16,9 @@
   {
     "objectID": "products.html",
     "href": "products.html",
-    "title": "Products",
+    "title": "my-website",
     "section": "",
-    "text": "Type: reel 7588\nLink: (optional)"
+    "text": "Type: reel 7588\nSummary: durable for John Deere mower.\nHighlights: - 12x2x23 - 10 bls - steel\nLink: (optional)"
   },
   {
     "objectID": "products.html#project-1-name",
@@ -51,15 +51,15 @@
   {
     "objectID": "products.html#product-1-new2026",
     "href": "products.html#product-1-new2026",
-    "title": "Products",
+    "title": "my-website",
     "section": "",
-    "text": "Type: reel 7588\nLink: (optional)"
+    "text": "Type: reel 7588\nSummary: durable for John Deere mower.\nHighlights: - 12x2x23 - 10 bls - steel\nLink: (optional)"
   },
   {
     "objectID": "products.html#product-2-dang",
     "href": "products.html#product-2-dang",
-    "title": "Products",
+    "title": "my-website",
     "section": "Product 2: (dang)",
-    "text": "Product 2: (dang)\nType: bite\nLink: (optional)"
+    "text": "Product 2: (dang)\n\nType: bite\nSummary: One sentence describing the product.\nHighlights: - Not a part but a pet - Pretty but not that smart\nLink: (optional)"
   }
 ]

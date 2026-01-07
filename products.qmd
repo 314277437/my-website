@@ -1,18 +1,24 @@
-
----
-title: "Products"
----
-
 ## Product 1: (new2026)
 
+![](images/new2026.gif){fig-alt="Product 1 demo" width=650}
+
 **Type:** reel 7588  
+**Summary:** durable for John Deere mower.  
+**Highlights:**
+- 12x2x23
+- 10 bls
+- steel
 
 **Link:** (optional)
 
 ## Product 2: (dang)
 
-**Type:** bite 
+![](images/ddgif.gif){fig-alt="Product 2 image" width=650}
+
+**Type:** bite  
+**Summary:** One sentence describing the product.  
+**Highlights:**
+- Not a part but a pet
+- Pretty but not that smart
 
 **Link:** (optional)
-
-
